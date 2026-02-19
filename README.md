@@ -18,7 +18,7 @@ Tested on iOS 18.0 (iPhone 16) and iOS 26.2 (iPhone 17) — same result on both.
 
 | Bare native build (animates) | Expo Go (doesn't animate) | Dev client (doesn't animate) |
 |---|---|---|
-| [bare-native.mp4](videos/bare-native.mp4) | [expo-go.mp4](videos/expo-go.mp4) | [with-dev-client.mp4](videos/with-dev-client.mp4) |
+| <video src="https://github.com/user-attachments/assets/59a0f68c-d96b-4db3-b547-152b92da3577">bare-native.mp4</video> | <video src="https://github.com/user-attachments/assets/a007f5e2-d38a-4621-9518-42855bc41a5f">expo-go.mp4</video> | <video src="https://github.com/user-attachments/assets/352601cd-0613-4dd6-878e-89f31ae2561e">with-dev-client.mp4</video> |
 
 ## Reproduction Steps
 
